@@ -1,0 +1,31 @@
+The link of the project on Google Drive is as : https://drive.google.com/file/d/11HcbKIrnNr_BQJtOZPpqX5K0f0zhrk-3/view?usp=sharing
+
+--------------------------------------- 
+Software Programs used:
+Eclipse Version: 2022-03 (4.23.0)
+Azure Data Studio Version: 1.36.2
+Docker Version 4.8.2 (79419)
+Apache Tomcat 9.0.64
+JDK 18.0.1.1
+Java Server Pages (JSP)
+JSP Standard Tag library (JSTL)
+MS SQL (JDBC Driver)
+
+----------------------------------------
+App main functions:
+1. List out all products from database.
+2. Search items.
+3. Order.
+
+----------------------------------------
+App functions in detail
+1. Show list of items with pagination
+2. Live search
+3. Search item(s) with search button.
+4. View detail of a an item.
+5. Add/Delete an item into cart,
+   Delete an item from cart,
+6. View Cart
+7. Save Cart and Buyer's information to database.
+8. Log in Form with remember as User/ Admin 
+9. Log out
