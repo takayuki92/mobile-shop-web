@@ -14,8 +14,8 @@ MS SQL (JDBC Driver)
 ----------------------------------------
 App main functions:
 1. List out all products from database.
-2. Search items.
-3. Order.
+2. Search items & add items to cart.
+3. Save order info to database.
 
 ----------------------------------------
 App functions in detail
